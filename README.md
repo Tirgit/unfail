@@ -3,6 +3,7 @@
 Failure management assignment for the LU Perspectives in Learning course 2019.
 Contents:
 
-- infographic
+- wireframe
 - essay / assignment document
 - Appendix 1 - questionnaire
+- Appendix 2 - categorized key concepts
